@@ -1,5 +1,11 @@
-<h2 align="center"> Hi there 👋 I am Moaz Elsherbini </h2>
-
+<h3 align="center"> Hi there 👋 I am Moaz Elsherbini </h3>
+<hr   display: block
+  margin-top: 0.5em
+  margin-bottom: 0.5em
+  margin-left: auto
+  margin-right: auto
+  border-style: inset
+  border-width: 1px >
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -9,7 +15,14 @@ I am a Computer Engineering Graduate who is motivated, curious, eager to learn n
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Moaz619&style=flat-square&color=blue" alt=""/>
 </div>
-
+<hr   display: block
+  margin-top: 0.5em
+  margin-bottom: 0.5em
+  margin-left: auto
+  margin-right: auto
+  border-style: inset
+  border-width: 1px >
+  
 ### 🌍: Connect with me :
 <div id="badges">
   <a href="https://www.linkedin.com/in/moaz-elsherbini-4425171b1/">
@@ -22,7 +35,13 @@ I am a Computer Engineering Graduate who is motivated, curious, eager to learn n
     <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-</br>
+<hr   display: block
+  margin-top: 0.5em
+  margin-bottom: 0.5em
+  margin-left: auto
+  margin-right: auto
+  border-style: inset
+  border-width: 1px >
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
