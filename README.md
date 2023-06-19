@@ -5,7 +5,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Computer Engineering Graduate who is motivated, curious, and eager to learn new things. 
+I am a Computer Engineering Graduate who is motivated, curious, eager to learn new things and explore the world of AI. 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Moaz619&style=flat-square&color=blue" alt=""/>
 </div>
